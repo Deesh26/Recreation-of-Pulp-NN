@@ -27,7 +27,7 @@ We tested **MobileNetV1** (generated with DORY) in a simulated GAP-8 environment
 
 ---
 
-## 🔍 Results Summary
+## Results Summary
 
 | Cores Used | Cycles | MACs | MACs/Cycle | Speedup |
 |------------|--------|------|------------|---------|
@@ -41,7 +41,7 @@ We tested **MobileNetV1** (generated with DORY) in a simulated GAP-8 environment
 
 ---
 
-## 🏗 Repo Structure
+## Repo Structure
 
 | Directory / File | Description |
 |------------------|-------------|
@@ -54,7 +54,7 @@ We tested **MobileNetV1** (generated with DORY) in a simulated GAP-8 environment
 
 ---
 
-## ⚙️ How to Reproduce
+## How to Reproduce
 
 ### 1. Clone the Paper Version
 ```bash
@@ -77,7 +77,7 @@ make run platform=gvsoc
 
 ---
 
-## 📚 Academic Context
+## Academic Context
 
 This work replicates the experimental setup of:
 
